@@ -64,6 +64,19 @@ Okay!
 ### WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 29 September 2026 - To: 03 November 2026
+
+Total Time: 59 hrs 22 mins
+
+Rust         29 hrs 56 mins        ████████████▓░░░░░░░░░░░░   50.22 %
+Dart         6 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Python       5 hrs 29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+CSS          4 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+HTML         3 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+```
+
 <!--END_SECTION:waka-->
 
 ### GitHub
