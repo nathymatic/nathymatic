@@ -62,6 +62,6 @@ Okay!
 ## Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jayywashere&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayywashere&layout=compact&theme=transparent&hide_border=true&hide=html,css,javascript,batchfile" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nathymatic&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathymatic&layout=compact&theme=transparent&hide_border=true&hide=html,css,javascript,batchfile" height="165"/>
 </p>
