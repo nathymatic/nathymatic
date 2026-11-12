@@ -1,4 +1,4 @@
-# Hello, I'm Jay / Nath / Nate! (corny introduction)
+# Hello-hello, I'm Jay / Nath!
 
 I'm a high-school developer interested in **low-level programming, programming languages, and systems** -- preferably with as little suffering as possible...
 
